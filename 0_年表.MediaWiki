@@ -116,18 +116,18 @@ Nov suppression of Ukranians in Galicia (for a month)
 |Pilsudski was died
 |-
 |1937
-|National Unity Camp 被建立
+|National Unity Camp was established
 |-
 |1939
 |
 * Signing of the [[Molotov–Ribbentrop Pact]]
-* Sep 1 德國入侵
-* Sep 17 蘇聯入侵
-* Sep 18 Fall of warzsawa
+* Sep 1 Invasion of Nazi Germany
+* Sep 17 Invasion of USSR
+* Sep 18 Fall of Warzsawa
 | rowspan="5" |[[Władysław Raczkiewicz]](1939–1947)
 |-
 |1940
-|Apr 斯摩稜思克周邊卡庭慘案
+|Apr Katyn massacre (在斯摩棱斯克周邊)
 |-
 |1941
 |
@@ -137,7 +137,7 @@ Nov suppression of Ukranians in Galicia (for a month)
 |1943
 |Wansee Conference
 * April Warsaw Ghetto Uprising
-* Jul - Aug 瓦萊尼亞與東加利西亞波蘭人大屠殺
+* Jul - Aug massacres of Poles in Volhynia and Eastern Galicia (瓦萊尼亞與東加利西亞波蘭人大屠殺, 烏克蘭族對波蘭人的屠殺)
 * Dec Tehran Conference
 |-
 |1944
@@ -324,14 +324,14 @@ Nov:
 !Prime Minister
 |-
 |1990
-|Jan 1: 休克疗法通过
-Dec 22 lech walesa 成為總統
+|Jan 1 休克疗法通过
+Dec 22 萊赫·瓦文薩 (Lech Walesa) 成為總統
 | rowspan="4" |[[Lech Wałęsa]]
 | rowspan="2" |[[Tadeusz Mazowiecki]]
 (1989-91)
 |-
 |1991
-|華約接替
+|Dissolution of Warsaw Pact (華約接替) 
 |-
 |1992
 |
@@ -339,14 +339,14 @@ Dec 22 lech walesa 成為總統
 * Jan Krzysztof Bielecki
 * Jan Olszewski
 * Waldemar Pawlak
-* (一年三任)
+* (一年三任總統)
 |-
 |1993
 |
 |Hanna Suchocka
 |-
 |1995
-|Jan: 幣值改革
+|Jan 幣值改革
 | rowspan="4" |[[Aleksander Kwaśniewski]]
 |[[Józef Oleksy]]
 |-
@@ -363,8 +363,8 @@ Dec 22 lech walesa 成為總統
 |Marek Belka
 |-
 |2005
-|lech 卡欽斯基成為總統
-john paul ii 死於拉特蘭宮
+|萊赫·卡欽斯基成為總統
+若望保祿二世死於拉特蘭宮
 | rowspan="3" |[[Lech Kaczyński]]
 |Kazimierz Marcinkiewicz
 |-
@@ -385,7 +385,7 @@ john paul ii 死於拉特蘭宮
 |若望保祿二世封聖
 |-
 |2015
-|PiS 的 duda - komovoski, Duda won
+|PiS 的 Duda - Komorowski 參選, Duda won
 | rowspan="2" |[[Andrzej Duda]]
 |Ewa Kopacz
 |-
